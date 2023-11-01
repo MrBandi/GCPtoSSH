@@ -1,5 +1,8 @@
 # 建立GCP專用的 SSH 連線設定
 
+[![hackmd-github-sync-badge](https://hackmd.io/scaDi-aqTxG686PjdbvzJQ/badge)](https://hackmd.io/scaDi-aqTxG686PjdbvzJQ)
+
+
 
 ```
 首先要先去下載【PuTTY】這個程式，下載完成後去搜尋的地方打上PuTTY，接下來後面會跳出下方兩個程式`
